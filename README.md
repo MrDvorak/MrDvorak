@@ -10,6 +10,6 @@ I'm Max, professional **C/C++ Software Developer** at [Luxoft](https://www.luxof
   <img alt="Python"  height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <!--- Separator --->
   <!--- OS --->
-  <img alt="Linux"   height="30" src="./icons/linux.svg"   align="right" hspace="0">
-  <img alt="Windows" height="30" src="./icons/windows.svg" align="right" hspace="10">
+  <img alt="Linux"   height="30" src="./icons/linux.svg"   align="right">
+  <img alt="Windows" height="30" src="./icons/windows.svg" align="right">
 </div>
