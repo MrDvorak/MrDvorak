@@ -9,12 +9,25 @@ So I'm **Max**, professional **C/C++ Software Developer** at [Luxoft](https://ww
 First time I got the real the job at [**PVS-Studio**](https://pvs-studio.com/). Nice place where we worked under **C++** part of **PVS-Studio** static analyzer.
 Generraly speaking before this I had an internship at [**Ingate**](https://ingate.ru/), but it was **C#**... Well, now I work at [**Luxoft**](https://www.luxoft.com/) **Automotive** with my old friend **C++** and its companion **Python**.
 
-<div>
-  <!--- Languages --->
-  <img alt="C"       src="https://img.shields.io/badge/Lang-C-green?style=flat&logoColor=white">
-  <img alt="C++"     src="https://img.shields.io/badge/Lang-C++-green?style=flat&logoColor=white">
-  <img alt="Python"  src="https://img.shields.io/badge/Lang-Python-green?style=flat&logoColor=white">
-  <!--- OS --->
-  <img alt="Linux"   align="right" src="https://img.shields.io/badge/Linux-blue?style=flat&logo=linux&logoColor=white" >
-  <img alt="Windows" align="right" src="https://img.shields.io/badge/Windows-blue?style=flat&logo=windows&logoColor=white" >
-</div>
+## My skill pack
+
+<!--- OS --->
+![Debian](https://img.shields.io/badge/Debian-cc074d?style=flat&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294072?style=flat&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0183dc?style=flat&logo=windows&logoColor=white)
+
+<!--- Languages & Tools --->
+![Five-Star](https://img.shields.io/badge/Skill-★★★★★-brightgreen?style=flat)
+![C](https://img.shields.io/badge/C-grey?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-grey?style=flat&logo=cplusplus&logoColor=white)
+\
+![Three-Star](https://img.shields.io/badge/Skill-★★★☆☆-brightgreen?style=flat)
+![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
+\
+![One-Star](https://img.shields.io/badge/Skill-★☆☆☆☆-brightgreen?style=flat)
+![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-grey?style=flat&logo=csharp&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-grey?style=flat&logo=cmake&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-grey?style=flat&logo=lua&logoColor=white)
