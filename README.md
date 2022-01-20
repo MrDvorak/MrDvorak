@@ -9,17 +9,6 @@ So I'm **Max**, professional **C/C++ Software Developer** at [Luxoft](https://ww
 First time I got the real the job at [**PVS-Studio**](https://pvs-studio.com/). Nice place where we worked under **C++** part of **PVS-Studio** static analyzer.
 Generraly speaking before this I had an internship at [**Ingate**](https://ingate.ru/), but it was **C#**... Well, now I work at [**Luxoft**](https://www.luxoft.com/) **Automotive** with my old friend **C++** and its companion **Python**.
 
-&nbsp;
-
-> *I've seen things you people wouldn't believe...*\
-> *Attack ships on fire off the shoulder of Orion...*\
-> *I watched C-beams glitter in the dark near the Tannhäuser Gate.*\
-> *All those moments will be lost in time, like tears in rain...*\
-> *Time to die.*\
->\
-> <cite>Roy</cite>
-
----
 <div>
   <!--- Languages --->
   <img alt="C"       src="https://img.shields.io/badge/Lang-C-green?style=flat&logoColor=white">
