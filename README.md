@@ -15,11 +15,10 @@ I'm Max, professional **C/C++ Software Developer** at [Luxoft](https://www.luxof
 ---
 <div>
   <!--- Languages --->
-  <img alt="C"       height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++"     height="30" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Python"  height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <!--- Separator --->
+  <img alt="C"       src="https://img.shields.io/badge/Lang-C-green?style=flat&logoColor=white">
+  <img alt="C++"     src="https://img.shields.io/badge/Lang-C++-green?style=flat&logoColor=white">
+  <img alt="Python"  src="https://img.shields.io/badge/Lang-Python-green?style=flat&logoColor=white">
   <!--- OS --->
-  <img alt="Linux"   height="30" src="./icons/linux.svg"   align="right">
-  <img alt="Windows" height="30" src="./icons/windows.svg" align="right">
+  <img alt="Linux"   align="right" src="https://img.shields.io/badge/Linux-blue?style=flat&logo=linux&logoColor=white" >
+  <img alt="Windows" align="right" src="https://img.shields.io/badge/Windows-blue?style=flat&logo=windows&logoColor=white" >
 </div>
