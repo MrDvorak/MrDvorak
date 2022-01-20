@@ -4,7 +4,7 @@
 I worte over and over again... C++, Debian, Shell, Bash, Arch, Ubuntu, Awesome, Lua, Python, C#... I tried more and more over and over again.
 I stopped eat and sleep. My eyes became red and I had lealized there is no escape anymore...*
 
-So I'm **Max**, professional **C/C++ Software Developer** at [Luxoft](https://www.luxoft.com/).
+So I'm **Max**, professional **C/C++ Software Developer** at [**Luxoft**](https://www.luxoft.com/).
 
 First time I got the real the job at [**PVS-Studio**](https://pvs-studio.com/). Nice place where we worked under **C++** part of **PVS-Studio** static analyzer.
 Generraly speaking before this I had an internship at [**Ingate**](https://ingate.ru/), but it was **C#**... Well, now I work at [**Luxoft**](https://www.luxoft.com/) **Automotive** with my old friend **C++** and its companion **Python**.
