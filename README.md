@@ -24,7 +24,10 @@ Generraly speaking before this I had an internship at [**Ingate**](https://ingat
 ![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnubash&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-grey?style=flat&logo=csharp&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-grey?style=flat&logo=cmake&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-grey?style=flat&logo=hack-the-box&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-grey?style=flat&logo=lua&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=flat&logo=powershell&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-grey?style=flat&logo=qt&logoColor=white)
 
 <!--- OS --->
 ![Debian](https://img.shields.io/badge/Debian-cc074d?style=flat&logo=debian&logoColor=white)
