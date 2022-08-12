@@ -19,6 +19,7 @@ Generraly speaking before this I had an internship at [**Ingate**](https://ingat
 ![Three-Star](https://img.shields.io/badge/Skill-★★☆-f83e3e?style=flat)
 ![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-grey?style=flat&logo=qt&logoColor=white)
 \
 ![One-Star](https://img.shields.io/badge/Skill-★☆☆-f87c7c?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnubash&logoColor=white)
@@ -27,7 +28,6 @@ Generraly speaking before this I had an internship at [**Ingate**](https://ingat
 ![Doxygen](https://img.shields.io/badge/Doxygen-grey?style=flat&logo=hack-the-box&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-grey?style=flat&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=flat&logo=powershell&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-grey?style=flat&logo=qt&logoColor=white)
 
 <!--- OS --->
 ![Debian](https://img.shields.io/badge/Debian-cc074d?style=flat&logo=debian&logoColor=white)
