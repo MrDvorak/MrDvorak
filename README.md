@@ -1,13 +1,18 @@
 # Hi, stranger! [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
 
-*I'm a programmer and that's my story. First code I wrote at 15... After first succesfull compilation there was no wish to stop.
-I worte over and over again... C++, Debian, Shell, Bash, Arch, Ubuntu, Awesome, Lua, Python, C#... I tried more and more over and over again.
-I stopped eat and sleep. My eyes became red and I had lealized there is no escape anymore...*
+*I'm a developer and that's my story. First code I wrote on my 15th...
+ After that there was no hope of stopping at all.
+ I've been coding day after day out over and over again...
+ C++, Debian, Shell, Bash, Arch, Ubuntu, Awesome, Lua, Python, C#...
+ My eyes turned red and I had realized there would no escape anymore...*
 
-So I'm **Max** (he/him), professional **C/C++ Software Developer** at [**Luxoft**](https://www.luxoft.com/).
+So I'm **Max** *(he/him)*, a professional **C++ Software Developer** at [**Luxoft**](https://www.luxoft.com/).
 
-First time I got the real the job at [**PVS-Studio**](https://pvs-studio.com/). Nice place where we worked under **C++** part of **PVS-Studio** static analyzer.
-Generraly speaking before this I had an internship at [**Ingate**](https://ingate.ru/), but it was **C#**... Well, now I work at [**Luxoft**](https://www.luxoft.com/) **Automotive** with my old friend **C++** and its companion **Python**.
+First time I got the real job at [**PVS-Studio**](https://pvs-studio.com/).
+It was a nice place where we'd been working on the **C++** part of the **PVS-Studio** static code analyzer.
+Well, technically, I had an experience before. An internship at [**Ingate**](https://ingate.ru/). But it was **C#**...
+As I already mentioned, now I work for [**Luxoft**](https://www.luxoft.com/) **Automotive**
+with my good old friend **C++** and its companion **Python**.
 
 ## My skill pack
 
