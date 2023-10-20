@@ -1,18 +1,10 @@
-# Hi, stranger! [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
+# Hi there! [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
 
-*I'm a developer and that's my story. First code I wrote on my 15th...
- After that there was no hope of stopping at all.
- I've been coding day after day out over and over again...
- C++, Debian, Shell, Bash, Arch, Ubuntu, Awesome, Lua, Python, C#...
- My eyes turned red and I had realized there would no escape anymore...*
+Hi, I'm **Max Zvyagintsev**, a **C++ Software Developer** experienced in **Python**.
 
-So I'm **Max** *(he/him)*, a professional **C++ Software Developer** at [**Luxoft**](https://www.luxoft.com/).
+I currently work at [**Luxoft**](https://luxoft.com/), a global IT service provider. At [**Luxoft**](https://luxoft.com/), I’m part of the team that develops an **ITE** *(**I**ntegrated **T**esting **E**nvironment)* for various automotive purposes, such as testing the functionality and performance of driver assistance systems.
 
-First time I got the real job at [**PVS-Studio**](https://pvs-studio.com/).
-It was a nice place where we'd been working on the **C++** part of the **PVS-Studio** static code analyzer.
-Well, technically, I had an experience before. An internship at [**Ingate**](https://ingate.ru/). But it was **C#**...
-As I already mentioned, now I work for [**Luxoft**](https://www.luxoft.com/) **Automotive**
-with my good old friend **C++** and its companion **Python**.
+Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](https://pvs-studio.com/), a company that develops its own **C++** static code analyzer. I was involved in the design and implementation of the core features of the analyzer; such as detecting bugs, vulnerabilities, and code smells in **C++** projects. I also contributed to the improvement of CLI tools and documentation of the analyzer.
 
 ## My skill pack
 
