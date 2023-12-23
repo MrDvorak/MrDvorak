@@ -14,16 +14,16 @@ Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](h
 \
 ![Middle](https://img.shields.io/badge/★★☆-f83e3e?style=flat)
 ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-grey?style=flat&logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-grey?style=flat&logo=qt&logoColor=white)
+![C](https://img.shields.io/badge/C-grey?style=flat&logo=c&logoColor=white)
 \
 ![Junior](https://img.shields.io/badge/★☆☆-f87c7c?style=flat)
+![CMake](https://img.shields.io/badge/CMake-grey?style=flat&logo=cmake&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-grey?style=flat&logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=flat&logo=powershell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-grey?style=flat&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-grey?style=flat&logo=lua&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=flat&logo=powershell&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-grey?style=flat&logo=windowsterminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnubash&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-grey?style=flat&logo=cmake&logoColor=white)
 
 <!--- OS --->
 ![Windows](https://img.shields.io/badge/Windows-0183dc?style=flat&logo=windows&logoColor=white)
