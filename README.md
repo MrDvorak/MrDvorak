@@ -8,7 +8,7 @@ Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](h
 
 ## My skill pack
 
-<!--- Languages & Tools --->
+<!--- Languages & Frameworks --->
 ![Senior](https://img.shields.io/badge/Skill-★★★-f80000?style=flat)
 ![C++](https://img.shields.io/badge/C%2B%2B-grey?style=flat&logo=cplusplus&logoColor=white)
 \
@@ -16,7 +16,6 @@ Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](h
 ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-grey?style=flat&logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-grey?style=flat&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git&logoColor=white)
 \
 ![Junior](https://img.shields.io/badge/Skill-★☆☆-f87c7c?style=flat)
 ![C#](https://img.shields.io/badge/C%23-grey?style=flat&logo=csharp&logoColor=white)
@@ -25,7 +24,6 @@ Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](h
 ![Batch](https://img.shields.io/badge/Batch-grey?style=flat&logo=windowsterminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnubash&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-grey?style=flat&logo=cmake&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-grey?style=flat&logo=hack-the-box&logoColor=white)
 
 <!--- OS --->
 ![Windows](https://img.shields.io/badge/Windows-0183dc?style=flat&logo=windows&logoColor=white)
