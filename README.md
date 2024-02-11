@@ -1,6 +1,6 @@
 # Hi there! [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
 
-Hi, I'm **Max Zvyagintsev**, a **C++ Software Developer** experienced in **Python**.
+Hi, I'm **Maksim Zviagintsev**, a **C++ Software Developer** experienced in **Python**.
 
 I currently work at [**Luxoft**](https://luxoft.com/), a global IT service provider. At [**Luxoft**](https://luxoft.com/), I’m part of the team that develops an **ITE** *(**I**ntegrated **T**esting **E**nvironment)* for various automotive purposes, such as testing the functionality and performance of driver assistance systems.
 
