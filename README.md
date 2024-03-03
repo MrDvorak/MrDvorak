@@ -27,6 +27,5 @@ Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](h
 
 <!--- OS --->
 ![Windows](https://img.shields.io/badge/Windows-0183dc?style=flat&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-cc074d?style=flat&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294072?style=flat&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-cc074d?style=flat&logo=debian&logoColor=white)
