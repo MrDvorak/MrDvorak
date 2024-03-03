@@ -22,8 +22,6 @@ Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](h
 ![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnubash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-grey?style=flat&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=flat&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-grey?style=flat&logo=csharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-grey?style=flat&logo=lua&logoColor=white)
 
 <!--- OS --->
 ![Windows](https://img.shields.io/badge/Windows-0183dc?style=flat&logo=windows&logoColor=white)
