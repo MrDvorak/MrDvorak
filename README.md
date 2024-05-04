@@ -1,10 +1,7 @@
 # Hi there! [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
 
-Hi, I'm **Maksim Zviagintsev**, a **C++ Software Developer** experienced in **Python**.
-
-I currently work at [**Luxoft**](https://luxoft.com/), a global IT service provider. At [**Luxoft**](https://luxoft.com/), I’m part of the team that develops an **ITE** *(**I**ntegrated **T**esting **E**nvironment)* for various automotive purposes, such as testing the functionality and performance of driver assistance systems.
-
-Before joining [**Luxoft**](https://luxoft.com/), I worked at [**PVS-Studio**](https://pvs-studio.com/), a company that develops its own **C++** static code analyzer. I was involved in the design and implementation of the core features of the analyzer; such as detecting bugs, vulnerabilities, and code smells in **C++** projects. I also contributed to the improvement of CLI tools and documentation of the analyzer.
+I am a **C++ Software Developer** with four years of professional experience in developing multithreaded business-oriented tools and applications for **Windows** and **Linux** platforms.
+Additionally, I have solid experience in **Python** and other scripting languages to provide CLI interfaces, automate tasks, and enhance productivity.
 
 ## My skill pack
 
