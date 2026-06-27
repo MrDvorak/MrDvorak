@@ -1,4 +1,4 @@
-# Hi there 👋 [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
+# Hi there! [![Telegram](https://img.shields.io/badge/MrDvorak-27a3e2?style=social&logo=telegram)](https://t.me/mrdvorak)
 
 Senior C++ engineer. I like systems that are correct, fast, and hard to break.
 
